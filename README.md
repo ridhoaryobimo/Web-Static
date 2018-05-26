@@ -1,0 +1,2 @@
+# amikom
+projek pertama github
